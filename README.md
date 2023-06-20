@@ -1,8 +1,8 @@
-# Glassmorphism - Personal portfolio
+# My-Portfolio - Personal portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/ascendantaditya/glassmorphism-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/ascendantaditya/glassmorphism-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ascendantaditya/glassmorphism-personal-portfolio?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/ascendantaditya/My-Portfolio)
+![GitHub stars](https://img.shields.io/github/stars/ascendantaditya/My-Portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ascendantaditya/My-Portfolio?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ascendantaditya?style=social)](https://twitter.com/intent/follow?screen_name=ascendantaditya)
 
 
@@ -10,8 +10,8 @@ Glassmorphism is a fully responsive personal portfolio website, responsive for a
 
 ## Demo
 
-![Glassmorphism Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Glassmorphism Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![My-Portfolio Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![My-Portfolio Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 ## Prerequisites
 
@@ -19,20 +19,20 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing Glassmorphism
+## Installing My-Portfolio
 
-To install **Glassmorphism**, follow these steps:
+To install **My-Portfolio**, follow these steps:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/ascendantaditya/glassmorphism-portfolio2.git
+sudo git clone https://github.com/ascendantaditya/My-Portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/ascendantaditya/glassmorphism-portfolio2.git
+git clone https://github.com/ascendantaditya/My-Portfolio.git
 ```
 
 ## Contact
