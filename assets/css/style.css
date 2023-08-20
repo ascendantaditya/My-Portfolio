@@ -124,6 +124,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+#update{
+	margin:0 82px;
+}
 
 a { text-decoration: none; }
 
